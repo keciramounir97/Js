@@ -205,12 +205,21 @@ HTML :
 4. Fais une alerte avec le nom de l’utilisateur (stocké dans une variable).
 5. Affiche la somme de 5 + 10 dans la console.
 
+
+-----------------------------------------------------------------------------------------------------
+
+
 **Niveau 2 — DOM et sélections**
 6. Crée un paragraphe avec `id="texte"` et affiche-le dans la console.
 7. Change le texte d’un paragraphe en "Salut Mounir !" via JS.
 8. Utilise `innerHTML` pour ajouter `<b>Bonjour</b>` dans un paragraphe.
 9. Affiche la différence entre `innerText` et `innerHTML`.
 10. Écris dans la page le texte contenu dans un élément récupéré.
+
+
+
+-------------------------------------------------------------------------------------------------------
+
 
 **Niveau 3 — Interactions**
 11. Demande le prénom de l’utilisateur (avec `prompt()`) et affiche-le avec `alert()`.
@@ -219,12 +228,18 @@ HTML :
 14. Utilise `textContent` pour afficher du texte sans HTML.
 15. Écris le résultat d’un calcul directement dans la page.
 
+
+
+----------------------------------------------------------------------------------------------------------
 **Niveau 4 — Mélange (window, document)**
 16. Utilise `window.alert` au lieu de `alert`.
 17. Affiche la largeur de la fenêtre avec `window.innerWidth`.
 18. Écris le titre du document (`document.title`) dans la console.
 19. Change le titre de la page.
 20. Utilise `document.write()` pour écrire le nom de la page.
+-------------------------------------------------------------------------------------------------
+
+
 
 **Niveau 5 — Petits mini-projets**
 21. Crée un bouton qui affiche un `alert()` quand on clique.
